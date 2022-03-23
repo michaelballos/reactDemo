@@ -19,7 +19,7 @@ function App() {
         </header>
       </div>
       <p>Testing Empty Wrap</p>
-      <p>Testing Empty Wrap 2</p>
+      <p>Testing Active Development Feature on Netlify</p>
     </>
   );
 }
